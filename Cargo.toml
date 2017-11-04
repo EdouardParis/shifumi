@@ -1,0 +1,7 @@
+[package]
+name = "shifumi"
+version = "0.1.0"
+authors = ["Edouard Paris <m@edouard.paris>"]
+
+[dependencies]
+clap = "2.27.1"
